@@ -37,8 +37,8 @@ The series should be __Seasonally and calendar adjusted__ and the units should b
 
 ## Submission
 
-* submit as a pull request to [this Github repo](https://github.com/niskrev/econ108-hw1)
+* submit as a pull request to this Github repo
 * as with HW0, fork and clone the repo
-* use notebook `HW1-empty.ipynb` as a starting point. [Here](./HW1-empty.ipynb) is a copy of that notebook. 
+* use notebook `HW1-empty.ipynb` as a starting point.
 * when you finish, rename the notebook to "HW1-First-Last" using your first and last names.
 * make the pull request
